@@ -1,0 +1,37 @@
+/*Estilo de Body*/
+
+body {
+color: rgb(9, 66, 7);
+background-color: black;
+}
+
+p {
+    font-size: 20px;
+    color: #8b8b8bcc;
+}
+
+h1{
+    font-size: 50px;
+    color:#46484c;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+button{
+    color: #fff;
+    background-color: #025157;
+}
+
+img{
+border-style: double ;
+border-color: rgb(30, 209, 54);
+border-width: 10px;
+padding: 50px; /*Separación de margen*/
+margin: 20px; /*Separación de líne a en imagenes de manera vertical*/
+}
+
+
+
+
+
+
